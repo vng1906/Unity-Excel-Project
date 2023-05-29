@@ -1,0 +1,7 @@
+Untidy data is data that can contain unnecessary blanks, text that is of different casing, text that is of different formatting, errors, and even text that is outside our required range.
+Cleaning untidy student data by first finding and removing blanks,
+duplicates and outliers. 
+Make sure that when the data is typed or input there are no blanks left. 
+Make sure all our students have the correct set of data and a complete set of data.
+Remove any unnecessary blank spaces so that
+we can make our dataset tidy.
